@@ -1,0 +1,9 @@
+numpy
+tensorflow
+keras
+librosa
+flask
+fastapi
+boto3
+cors
+pillow
