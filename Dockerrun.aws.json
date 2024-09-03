@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "nirutthyu/emotion_image_recognition:latest",
+      "Name": "tmsasikumar/emotion_image_recognition:latest",
       "Update": "true"
     },
     "Ports": [
